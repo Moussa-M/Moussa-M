@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> ⚡It's allways possible to know the type developer by a few of lines of code he/she wrote.⚡ MM
+> ⚡It's always possible to know the type developer by a few of lines of code he/she wrote.⚡ MM
 
