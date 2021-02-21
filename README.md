@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 > ⚡It's always possible to know the type developer by a few of lines of code he/she wrote.⚡ MM
  
-If you have any idea and wanna to bring it to life here is link of my private comapny 
+If you have any idea and wanna to bring it to life here is link to make it happen 
 [<ins>Idea to life</ins>](https://itoli.poolgazal.com/)
