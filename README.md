@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> ⚡It's always possible to know the type developer by a few of lines of code he/she wrote.⚡ MM
+> If I had eight hours to chop down a tree, I'd spend six sharpening my axe
  
-If you have any idea and wanna to bring it to life here is link to make it happen 
-[<ins>Idea to life</ins>](https://itoli.poolgazal.com/)
