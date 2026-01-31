@@ -30,7 +30,7 @@ Intelligent commit message generator that analyzes your code changes and suggest
 
 ### AI & Data Tools
 
-#### [🤖 AI Models Intelligence Grid](https://github.com/Moussa-M/ai-models)
+#### [🤖 AI Models Search Grid](https://github.com/Moussa-M/ai-models)
 Comprehensive, interactive grid for exploring and comparing AI language models across different providers. Features advanced filtering, sorting, and real-time search.
 🌐 [Live Demo](https://models.apertacodex.ai)
 
@@ -58,9 +58,6 @@ Quick service port finder for developers - get unique and meaningful port number
 
 #### [📐 Flexi Diagram](https://fdg.apertacodex.ai)
 Flexible diagram creation tool for modern workflows.
-
-#### [🌊 Markdown Live Editor](https://mk.apertacodex.ai)
-Markdown editor with live preview and export capabilities.
 
 ## 🛠️ Tech Stack
 
