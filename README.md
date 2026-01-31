@@ -44,6 +44,10 @@ Modern markdown editor with live preview, collaborative features, and AI-powered
 
 ### Utilities & Services
 
+#### [📅 iCal](https://github.com/Moussa-M/ical)
+Intelligent calendar and scheduling assistant.
+🌐 [Live Demo](https://ical.apertacodex.ai)
+
 #### [🎬 YTVC - YouTube Video Cutter](https://github.com/Moussa-M/ytvc)
 Python-based tool for cutting and processing YouTube videos with ease.
 🌐 [Live Demo](https://ytvc.vercel.app)
