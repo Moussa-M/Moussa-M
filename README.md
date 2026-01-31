@@ -59,19 +59,8 @@ Quick service port finder for developers - get unique and meaningful port number
 #### [📐 Flexi Diagram](https://fdg.apertacodex.ai)
 Flexible diagram creation tool for modern workflows.
 
-#### [🌊 Mermaid Live Editor](https://mermaid.apertacodex.ai)
-Interactive Mermaid diagram editor with live preview and export capabilities.
-
-#### [📊 DataFuse](https://www.datafuse.xyz)
-Advanced data fusion and visualization platform.
-
-### Web Applications
-
-#### [🏊 Poolgazal](https://poolgazal.com)
-Complete pool management solution.
-
-#### [🌐 Personal Portfolio](https://moussamokhtari.com)
-My personal website and portfolio showcasing my work and experience.
+#### [🌊 Markdown Live Editor](https://mk.apertacodex.ai)
+Markdown editor with live preview and export capabilities.
 
 ## 🛠️ Tech Stack
 
