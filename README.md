@@ -14,57 +14,57 @@ I'm **Moussa Mokhtari**, a dedicated Tech Lead with a deep-rooted passion for te
 
 ### Developer Tools & Platforms
 
-#### [🔑 AK - API Key Manager](https://github.com/ApertaCodex/ak)
+#### <a href="https://github.com/ApertaCodex/ak" target="_blank">🔑 AK - API Key Manager</a>
 Cross-platform C++17 command-line tool for secure API key management with encrypted storage, service integration, and shell completions.
-🌐 [Live Demo](https://ak.apertacodex.ai)
+🌐 <a href="https://ak.apertacodex.ai" target="_blank">Live Demo</a>
 
-#### [🎨 VS Code Extension Builder](https://github.com/Moussa-M/vscode-extension-builder)
+#### <a href="https://github.com/Moussa-M/vscode-extension-builder" target="_blank">🎨 VS Code Extension Builder</a>
 AI-powered VS Code extension builder with intelligent code generation and live preview. Build extensions with natural language prompts.
-🌐 [Live Demo](https://vscode.apertacodex.ai)
+🌐 <a href="https://vscode.apertacodex.ai" target="_blank">Live Demo</a>
 
-#### [💾 Simple DB](https://github.com/ApertaCodex/simple-db)
+#### <a href="https://github.com/ApertaCodex/simple-db" target="_blank">💾 Simple DB</a>
 Lightweight and efficient database solution designed for simplicity and performance.
 
-#### [💬 AI Commit](https://github.com/ApertaCodex/aicommit)
+#### <a href="https://github.com/ApertaCodex/aicommit" target="_blank">💬 AI Commit</a>
 Intelligent commit message generator that analyzes your code changes and suggests meaningful commit messages.
 
 ### AI & Data Tools
 
-#### [🤖 AI Models Search Grid](https://github.com/Moussa-M/ai-models)
+#### <a href="https://github.com/Moussa-M/ai-models" target="_blank">🤖 AI Models Search Grid</a>
 Comprehensive, interactive grid for exploring and comparing AI language models across different providers. Features advanced filtering, sorting, and real-time search.
-🌐 [Live Demo](https://models.apertacodex.ai)
+🌐 <a href="https://models.apertacodex.ai" target="_blank">Live Demo</a>
 
-#### [📊 SQL.js Playground](https://github.com/Moussa-M/sqljs)
+#### <a href="https://github.com/Moussa-M/sqljs" target="_blank">📊 SQL.js Playground</a>
 Interactive SQL.js playground with query execution and data visualization capabilities.
-🌐 [Live Demo](https://sqljs.vercel.app)
+🌐 <a href="https://sqljs.vercel.app" target="_blank">Live Demo</a>
 
-#### [📝 Markdown Editor](https://github.com/Moussa-M/markdown-editor)
+#### <a href="https://github.com/Moussa-M/markdown-editor" target="_blank">📝 Markdown Editor</a>
 Modern markdown editor with live preview, collaborative features, and AI-powered assistance.
-🌐 [Live Demo](https://mk.apertacodex.ai)
+🌐 <a href="https://mk.apertacodex.ai" target="_blank">Live Demo</a>
 
-#### [🔄 JSONit](https://github.com/Moussa-M/jsonit)
+#### <a href="https://github.com/Moussa-M/jsonit" target="_blank">🔄 JSONit</a>
 Universal JSON converter and API testing tool. Convert any data format to JSON instantly with AI.
-🌐 [Live Demo](https://jsonapi.apertacodex.ai)
+🌐 <a href="https://jsonapi.apertacodex.ai" target="_blank">Live Demo</a>
 
 ### Utilities & Services
 
-#### [📅 iCal](https://github.com/Moussa-M/ical)
+#### <a href="https://github.com/Moussa-M/ical" target="_blank">📅 iCal</a>
 Intelligent calendar and scheduling assistant.
-🌐 [Live Demo](https://ical.apertacodex.ai)
+🌐 <a href="https://ical.apertacodex.ai" target="_blank">Live Demo</a>
 
-#### [🎬 YTVC - YouTube Video Cutter](https://github.com/Moussa-M/ytvc)
+#### <a href="https://github.com/Moussa-M/ytvc" target="_blank">🎬 YTVC - YouTube Video Cutter</a>
 Python-based tool for cutting and processing YouTube videos with ease.
-🌐 [Live Demo](https://ytvc.vercel.app)
+🌐 <a href="https://ytvc.vercel.app" target="_blank">Live Demo</a>
 
-#### [🎨 LogoSnap](https://logosnap.io)
+#### <a href="https://logosnap.io" target="_blank">🎨 LogoSnap</a>
 Professional logo generation and design service.
 
-#### [🔌 Service Port Finder](https://sp.devshub.ai)
+#### <a href="https://sp.devshub.ai" target="_blank">🔌 Service Port Finder</a>
 Quick service port finder for developers - get unique and meaningful port numbers instantly.
 
 ### Design & Visualization
 
-#### [📐 Flexi Diagram](https://fdg.apertacodex.ai)
+#### <a href="https://fdg.apertacodex.ai" target="_blank">📐 Flexi Diagram</a>
 Flexible diagram creation tool for modern workflows.
 
 ## 🛠️ Tech Stack
