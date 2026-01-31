@@ -42,6 +42,10 @@ Interactive SQL.js playground with query execution and data visualization capabi
 Modern markdown editor with live preview, collaborative features, and AI-powered assistance.
 🌐 [Live Demo](https://mk.apertacodex.ai)
 
+#### [🔄 JSONit](https://github.com/Moussa-M/jsonit)
+Universal JSON converter and API testing tool. Convert any data format to JSON instantly with AI.
+🌐 [Live Demo](https://jsonapi.apertacodex.ai)
+
 ### Utilities & Services
 
 #### [📅 iCal](https://github.com/Moussa-M/ical)
