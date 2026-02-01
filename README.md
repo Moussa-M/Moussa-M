@@ -10,62 +10,21 @@ I'm **Moussa Mokhtari**, a dedicated Tech Lead with a deep-rooted passion for te
 - 💬 Ask me about software development, tech leadership, and leveraging AI for innovative solutions
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mokhtari-moussa/)
 
-## 🌟 Featured Projects
+## 🚀 Projects
 
-### Developer Tools & Platforms
-
-#### <a href="https://github.com/ApertaCodex/ak" target="_blank">🔑 AK - API Key Manager</a>
-Cross-platform C++17 command-line tool for secure API key management with encrypted storage, service integration, and shell completions.
-🌐 <a href="https://ak.apertacodex.ai" target="_blank">Live Demo</a>
-
-#### <a href="https://github.com/Moussa-M/vscode-extension-builder" target="_blank">🎨 VS Code Extension Builder</a>
-AI-powered VS Code extension builder with intelligent code generation and live preview. Build extensions with natural language prompts.
-🌐 <a href="https://vscode.apertacodex.ai" target="_blank">Live Demo</a>
-
-#### <a href="https://github.com/ApertaCodex/simple-db" target="_blank">💾 Simple DB</a>
-Lightweight and efficient database solution designed for simplicity and performance.
-
-#### <a href="https://github.com/ApertaCodex/aicommit" target="_blank">💬 AI Commit</a>
-Intelligent commit message generator that analyzes your code changes and suggests meaningful commit messages.
-
-### AI & Data Tools
-
-#### <a href="https://github.com/Moussa-M/ai-models" target="_blank">🤖 AI Models Search Grid</a>
-Comprehensive, interactive grid for exploring and comparing AI language models across different providers. Features advanced filtering, sorting, and real-time search.
-🌐 <a href="https://models.apertacodex.ai" target="_blank">Live Demo</a>
-
-#### <a href="https://github.com/Moussa-M/sqljs" target="_blank">📊 SQL.js Playground</a>
-Interactive SQL.js playground with query execution and data visualization capabilities.
-🌐 <a href="https://sqljs.vercel.app" target="_blank">Live Demo</a>
-
-#### <a href="https://github.com/Moussa-M/markdown-editor" target="_blank">📝 Markdown Editor</a>
-Modern markdown editor with live preview, collaborative features, and AI-powered assistance.
-🌐 <a href="https://mk.apertacodex.ai" target="_blank">Live Demo</a>
-
-#### <a href="https://github.com/Moussa-M/jsonit" target="_blank">🔄 JSONit</a>
-Universal JSON converter and API testing tool. Convert any data format to JSON instantly with AI.
-🌐 <a href="https://jsonapi.apertacodex.ai" target="_blank">Live Demo</a>
-
-### Utilities & Services
-
-#### <a href="https://github.com/Moussa-M/ical" target="_blank">📅 iCal</a>
-Intelligent calendar and scheduling assistant.
-🌐 <a href="https://ical.apertacodex.ai" target="_blank">Live Demo</a>
-
-#### <a href="https://github.com/Moussa-M/ytvc" target="_blank">🎬 YTVC - YouTube Video Cutter</a>
-Python-based tool for cutting and processing YouTube videos with ease.
-🌐 <a href="https://ytvc.vercel.app" target="_blank">Live Demo</a>
-
-#### <a href="https://logosnap.io" target="_blank">🎨 LogoSnap</a>
-Professional logo generation and design service.
-
-#### <a href="https://sp.devshub.ai" target="_blank">🔌 Service Port Finder</a>
-Quick service port finder for developers - get unique and meaningful port numbers instantly.
-
-### Design & Visualization
-
-#### <a href="https://fdg.apertacodex.ai" target="_blank">📐 Flexi Diagram</a>
-Flexible diagram creation tool for modern workflows.
+- 🔑 <a href="https://ak.apertacodex.ai" target="_blank">**AK**</a> – Cross-platform API key manager with encrypted storage [[repo](https://github.com/ApertaCodex/ak)]
+- 🎨 <a href="https://vscode.apertacodex.ai" target="_blank">**VSCode Extension Builder**</a> – Build VS Code extensions with AI [[repo](https://github.com/Moussa-M/vscode-extension-builder)]
+- 🤖 <a href="https://models.apertacodex.ai" target="_blank">**ModelVault**</a> – LLM model comparison tool [[repo](https://github.com/Moussa-M/ai-models)]
+- 📝 <a href="https://mk.apertacodex.ai" target="_blank">**Markdown Editor**</a> – Professional markdown editor with AI [[repo](https://github.com/Moussa-M/markdown-editor)]
+- 🔄 <a href="https://jsonapi.apertacodex.ai" target="_blank">**JSONit**</a> – Universal JSON converter [[repo](https://github.com/Moussa-M/jsonit)]
+- 📅 <a href="https://ical.apertacodex.ai" target="_blank">**iCal**</a> – Intelligent calendar assistant [[repo](https://github.com/Moussa-M/ical)]
+- 📊 <a href="https://sqljs.vercel.app" target="_blank">**SQLite Browser**</a> – In-browser database explorer [[repo](https://github.com/Moussa-M/sqljs)]
+- 💾 **Simple DB** – Lightweight database solution [[repo](https://github.com/ApertaCodex/simple-db)]
+- 💬 **AI Commit** – Intelligent commit message generator [[repo](https://github.com/ApertaCodex/aicommit)]
+- 🎬 <a href="https://ytvc.vercel.app" target="_blank">**YTVC**</a> – YouTube video cutter [[repo](https://github.com/Moussa-M/ytvc)]
+- 🎨 <a href="https://logosnap.io" target="_blank">**LogoSnap**</a> – Professional logo generation service
+- 🔌 <a href="https://sp.devshub.ai" target="_blank">**Service Port Finder**</a> – Get unique port numbers instantly
+- 📐 <a href="https://fdg.apertacodex.ai" target="_blank">**Flexi Diagram**</a> – Flexible diagram creation tool
 
 ## 🛠️ Tech Stack
 
