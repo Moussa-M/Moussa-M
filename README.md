@@ -69,9 +69,6 @@ Interactive ASCII art challenge platform. Practice and improve your ASCII art sk
 Smart Git workflow management with checkpoint-based version control. Create meaningful checkpoints in your development process and navigate your project history with ease.
 [[repo](https://github.com/Moussa-M/git-checkpoints)]
 
-### 📜 [Shell Scripts Collection](https://github.com/Moussa-M/scripts)
-Curated collection of useful shell scripts for developers. Automation scripts for common development tasks, system administration, and productivity enhancements.
-[[repo](https://github.com/Moussa-M/scripts)]
 
 ## 🛠️ Tech Stack
 
