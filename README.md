@@ -19,8 +19,8 @@ I'm **Moussa Mokhtari**, a dedicated Tech Lead with a deep-rooted passion for te
 - 🔄 <a href="https://jsonapi.apertacodex.ai" target="_blank">**JSONit**</a> – Universal JSON converter [[repo](https://github.com/Moussa-M/jsonit)]
 - 📅 <a href="https://ical.apertacodex.ai" target="_blank">**iCal**</a> – Intelligent calendar assistant [[repo](https://github.com/Moussa-M/ical)]
 - 📊 <a href="https://sqljs.vercel.app" target="_blank">**SQLite Browser**</a> – In-browser database explorer [[repo](https://github.com/Moussa-M/sqljs)]
-- 💾 **Simple DB** – Lightweight database solution [[repo](https://github.com/ApertaCodex/simple-db)]
-- 💬 **AI Commit** – Intelligent commit message generator [[repo](https://github.com/ApertaCodex/aicommit)]
+- 💾 <a href="https://marketplace.visualstudio.com/items?itemName=apertacodex.simple-db" target="_blank">**Simple DB**</a> – Lightweight database solution [[repo](https://github.com/ApertaCodex/simple-db)]
+- 💬 <a href="https://marketplace.visualstudio.com/items?itemName=apertacodex.aicommit" target="_blank">**AI Commit**</a> – Intelligent commit message generator [[repo](https://github.com/ApertaCodex/aicommit)]
 - 🎬 <a href="https://ytvc.vercel.app" target="_blank">**YTVC**</a> – YouTube video cutter [[repo](https://github.com/Moussa-M/ytvc)]
 - 🎨 <a href="https://logosnap.io" target="_blank">**LogoSnap**</a> – Professional logo generation service
 - 🔌 <a href="https://sp.devshub.ai" target="_blank">**Service Port Finder**</a> – Get unique port numbers instantly
