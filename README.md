@@ -14,7 +14,6 @@ I'm **Moussa Mokhtari**, a dedicated Tech Lead with a deep-rooted passion for te
 
 ### 🎨 [VSCode Extension Builder](https://vscode.apertacodex.ai)
 AI-powered VS Code extension builder with intelligent code generation and live preview. Create professional VS Code extensions without deep knowledge of the Extension API. Features include real-time preview, AI-assisted code generation, and comprehensive extension scaffolding.
-[[repo](https://github.com/Moussa-M/vscode-extension-builder)]
 
 ### 📅 [iCal - Intelligent Calendar Assistant](https://ical.apertacodex.ai)
 Smart calendar management system with intelligent scheduling capabilities. Streamline your calendar management with AI-powered scheduling suggestions and conflict resolution.
